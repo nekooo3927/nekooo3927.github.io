@@ -6,6 +6,5 @@
     "needComment":0,
     "showPostSource":0,
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
-    "singlePage":["about"],
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"
+    "singlePage":["about"]
 }
